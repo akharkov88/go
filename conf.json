@@ -1,0 +1,7 @@
+{
+    "Address": "localhost",
+    "Port": "27017",
+    "User": "123",
+    "Password": "123",
+    "Db": "First_Database"
+}
